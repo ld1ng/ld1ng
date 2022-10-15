@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ld1ng</h1>
-<h3 align="center">CyberSec student loaf in SEU.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ld1ng&label=Profile%20views&color=0e75b6&style=flat" alt="ld1ng" /> </p>
 
 - 🔭 I’m currently working on **crypto or something**
