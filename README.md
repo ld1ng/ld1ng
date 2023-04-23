@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ld1ng&label=Profile%20views&color=0e75b6&style=flat" alt="ld1ng" /> </p>
 
-- 👨‍💻 A CyberSec student loaf in SEU.
+- 👨‍💻 A CyberSec student loafing in SEU.
 
 - 🔭 I’m currently working on **crypto or something**
 
