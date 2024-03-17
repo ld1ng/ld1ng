@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently reading **The Romance of the Three Kingdoms**
 
-- 📝 I regularly write articles on [ld1ng.top](https://ld1ng.top/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ld1ng&show_icons=true&locale=en" alt="ld1ng" /></p>
 
